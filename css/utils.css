@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Bree+Serif&display=swap');
+
+.h-primary {
+    font-size: 26px;
+    padding: 12px;
+    font-family: 'Bree Serif', serif;
+}
+
+.h-secondory {
+    font-family: 'Bree Serif', serif;
+    font-size: 1.6rem;
+    padding: 12px;
+
+}
+
+#home h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+
+#home p {
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.btn {
+    padding: 4px 8px;
+    border: 2px solid white;
+    background-color: #ff8000;
+    color: white;
+    margin: 17px;
+    font-size: 13px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+}
